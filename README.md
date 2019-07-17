@@ -102,4 +102,4 @@ After Heatmap
 ![Heatmap](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/heat_cric.png)
 
 
-You can download the data and model from ![here](https://www.dropbox.com/s/0jp57lhs0y805ro/sports-type-classifier-data.7z?dl=0) 
+You can download the data and model from [here](https://www.dropbox.com/s/0jp57lhs0y805ro/sports-type-classifier-data.7z?dl=0) 
